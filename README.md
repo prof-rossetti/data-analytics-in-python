@@ -2,22 +2,72 @@
 
 ## Instructional Units
 
+### 0. Onboarding
+
+Topics:
+  + Course Overview
+  + Python Development Environment Setup (Google Colab Overview)
+  + GitHub Overview
+
+Deliverable: Onboarding Survey
+
 ### I. Python Language Overview
 
-Coming Soon...
+Topics:
+  + Printing and Logging
+  + Variables and Functions
+  + Basic Datatypes - bool, string, int, float
+  + Intermediate Datatypes - list, dictionary
+  + Advanced Datatypes - custom classes and Object-Oriented Programming (OOP)
 
-### II. Processing CSV Data
+Exercises:
+  + Custom Functions Exercise
+  + List Comprehensions Exercise
 
-Coming Soon...
+Deliverable: Groceries Exercise
 
-### III. Processing HTML and JSON Data 
+### II. Analyzing CSV Data from Local File
 
-Coming Soon...
+Topics:
+  + Installing and Using Third Party Packages
+  + Processing CSV data with the Pandas Package - Pandas DataFrames
+  + Visualizing data with the Seaborn and Plotly Express Packages
+
+Exercises:
+  + Monthly Sales Reporting
+  + Three Charts
+ 
+Deliverable: Executive Dashboard Exercise
+
+### III. Analyzing HTML and JSON Data from the Internet
+
+Topics:
+  + HTTP, APIs, and Internet Fundamentals
+  + Issuing HTTP Requests with the Requests Package
+  + Processing JSON data from APIs
+  + Processing HTML data with the BeautifulSoup Package
+  + Automated Web Browsing and Web Scraping with the Selenium Package
+
+Exercises:
+  + Web Requests
+  + API Client
+
+Deliverable: Robo Advisor Exercise OR Web Scraper Exercise
 
 ### IV. Predictive Analytics
 
-Coming Soon...
+Topics:
+  + Statistics and Machine Learning with the Scikit-Learn Package
+  + Linear Regressions with the Scikit-Learn Package
 
-### V. Applied Analytics
+Deliverable: Predictive Model
 
-Coming Soon...
+### V. Machine Learning
+
+Topics:
+  + Natural Language Processing (NLP) and Sentiment Analysis Overview
+  + Text Tokenization and Vectorization with the Scikit-Learn Package
+  + Logistic Regressions with the Scikit-Learn Package
+
+Deliverable: Sentiment Analysis Classifier
+
