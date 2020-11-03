@@ -16,9 +16,10 @@ Deliverable: Onboarding Survey
 Topics:
   + Printing and Logging
   + Variables and Functions
-  + Basic Datatypes - bool, string, int, float
+  + Basic Datatypes - boolean, string, integer, float
   + Intermediate Datatypes - list, dictionary
-  + Advanced Datatypes - custom classes and Object-Oriented Programming (OOP)
+  + Looping, Filtering, and Mapping Lists
+  + Custom Datatypes, Classes, and Object-Oriented Programming (OOP)
 
 Exercises:
   + Custom Functions Exercise
