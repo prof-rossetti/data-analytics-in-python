@@ -1,0 +1,16 @@
+{
+    "downloadDate": "2019-06-05",
+    "professorId": 123,
+    "students":[
+      {"studentId": 11, "finalGrade": 86.7},
+      {"studentId": 12, "finalGrade": 95.1},
+      {"studentId": 13, "finalGrade": 60.3},
+      {"studentId": 14, "finalGrade": 99.8},
+      {"studentId": 15, "finalGrade": 97.4},
+      {"studentId": 16, "finalGrade": 85.5},
+      {"studentId": 17, "finalGrade": 97.2},
+      {"studentId": 18, "finalGrade": 98.0},
+      {"studentId": 19, "finalGrade": 93.9},
+      {"studentId": 20, "finalGrade": 92.5}
+    ]
+  }
