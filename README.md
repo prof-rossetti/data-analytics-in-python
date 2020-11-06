@@ -4,48 +4,56 @@
 
 ## Instructional Units
 
-### 0. Onboarding
+### 0 - Onboarding
 
-Topics:
   + Course Overview
-  + Python Development Environment Setup (Google Colab Overview)
+  + Development Environment Setup (Google Colab Overview)
   + GitHub Overview
 
-### 1. Python Language Overview
+### 1A - Python Language Overview
 
-Topics:
   + Printing and Logging
+  + Basic Datatypes: Booleans, Strings, Numbers
   + Variables and Functions
-  + Basic Datatypes - boolean, string, integer, float
-  + Intermediate Datatypes - list, dictionary
-  + Looping, Filtering, and Mapping Lists
-  + Custom Datatypes, Classes, and Object-Oriented Programming (OOP)
 
-### 2. Analyzing CSV Data from Local File
+### 1B - Python Datatypes
 
-Topics:
+  + Intermediate Datatypes: Lists and Dictionaries
+  + List Operations: Looping, Filtering, and Mapping
+  + Custom Datatypes: Classes and Object-Oriented Programming (OOP)
+
+### 2A - Processing CSV Data
+
   + Installing and Using Third Party Packages
   + Processing CSV data with the Pandas Package - Pandas DataFrames
+
+### 2B - Data Visualization
+
   + Visualizing data with the Seaborn and Plotly Express Packages
 
-### 3. Analyzing HTML and JSON Data from the Internet
+### 3A - Web Scraping
 
-Topics:
   + HTTP, APIs, and Internet Fundamentals
   + Issuing HTTP Requests with the Requests Package
   + Processing JSON data from APIs
+
+### 3B - Web Scraping
+
   + Processing HTML data with the BeautifulSoup Package
   + Automated Web Browsing and Web Scraping with the Selenium Package
 
-### 4. Predictive Analytics
+### 4A - Predictive Modeling
 
-Topics:
-  + Statistics and Machine Learning with the Scikit-Learn Package
-  + Linear Regressions with the Scikit-Learn Package
+  + Univariate Linear Regressions with the Scikit-Learn Package
 
-### 5. Machine Learning
+### 4B - Multivariate Linear Modeling
 
-Topics:
+  + Multivariate Linear Regressions with the Scikit-Learn Package
+  + "One-Hot" Categorical Feature Encoding
+
+### 5 - Machine Learning
+
   + Natural Language Processing (NLP) and Sentiment Analysis Overview
-  + Text Tokenization and Vectorization with the Scikit-Learn Package
+  + Data Labeling
+  + Text Tokenization and Vectorization
   + Logistic Regressions with the Scikit-Learn Package
